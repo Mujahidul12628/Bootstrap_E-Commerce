@@ -1,0 +1,73 @@
+#top_section {
+    background-color: #fceae8;
+
+}
+
+p input {
+    background-color: rgb(255, 0, 144);
+    padding: 5px;
+    margin-top: 5px;
+    font-size: 100 px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    color: white;
+
+}
+
+.panda-bg-info {
+    background-color: #fceae8;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.panda-btn-buy-now {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+#gop {
+    margin: 5px;
+}
+
+.blog-price-button h2 {
+    color: #FF136F;
+}
+
+.blog-price-button input {
+    color: white;
+    background-color: #ff0077;
+    border: none;
+    padding: 3px;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.blog-price-button input:hover {
+    color: #ffffff;
+    background-color: #e60259;
+    padding: 3px;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+#submit_now {
+    color: white;
+    background-color: #ff0077;
+    border: none;
+    padding: 3px;
+    font-weight: bold;
+    min-width: 200px;
+
+}
+
+#input_text_for_submit {
+
+    border: none;
+    padding: 3px;
+}
